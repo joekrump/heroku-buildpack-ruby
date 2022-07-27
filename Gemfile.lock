@@ -11,7 +11,7 @@ GEM
       excon (>= 0.47.0)
       multi_json
     erubis (2.7.0)
-    excon (0.92.1)
+    excon (0.92.4)
     heroics (0.1.2)
       erubis (~> 2.0)
       excon
@@ -24,7 +24,7 @@ GEM
       rrrretry (~> 1)
       thor (~> 1)
       threaded (~> 0)
-    json (2.6.1)
+    json (2.6.2)
     moneta (1.0.0)
     multi_json (1.15.0)
     parallel (1.22.1)
